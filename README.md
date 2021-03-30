@@ -1,4 +1,4 @@
-### Hi There, I am Elminstêr 👋
+### Hi There, I am Ruqq 👋
 <a href="https://discordapp.com/users/671302260713717760/">
   <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
