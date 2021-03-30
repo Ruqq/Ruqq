@@ -2,8 +2,8 @@
 <a href="https://discordapp.com/users/671302260713717760/">
   <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
- <a href="https://github.com/Elminstr">
-  <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ <a href="https://github.com/Ruqq">
+  <img align="left" alt="Ruqq" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminstr" alt="Elminstr" /> </p>
