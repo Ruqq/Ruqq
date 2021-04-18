@@ -4,8 +4,6 @@
   <img align="left" alt="Ruqq" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ruqq" alt="Ruqq" /> </p>
-<br />
 
 ### Glad to see you here! 🤩
 
