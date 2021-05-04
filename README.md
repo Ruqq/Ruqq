@@ -1,17 +1,17 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-   <p align="left">Hi, I’m <a href="https://bayrak-js.com/">Bayrak!</a>, a young developer from Turkey 🚀</p>
+   <p align="left">Hi, I’m <a href="https://bayrak-js.com/">Ruqq!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
    <a href="https://discord.com/users/322756173654786050" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://open.spotify.com/user/Bayrak" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://www.youtube.com/channel/bayrak" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://instagram.com/bayraakk_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/bayrakdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://open.spotify.com/user/ruqq" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://www.youtube.com/channel/UCXhXE6VLUhiSqPdnduGlhGw" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   </a>
+   <a href="https://github.com/Ruqq" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 I’m currently working on a cool project 😎</li>
-  <li>📫 You can reach me from <a href="https://discord.com/users/548145246983159808" target"blank_">Discord</a> or <a href="https://instagram.com/bayraakk_" target="_blank">Instagram</a>.</li>
+  <li>📫 You can reach me from <a href="https://discord.com/users/322756173654786050" target"blank_">Discord</a> or <a href="https://instagram.com/bayraakk_" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Languages and Tools:</h3>
 <p style="float:right">
@@ -31,7 +31,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayrakdev&theme=dark&count_private=true&show_icons=true&hide_border=true" />
-   <img src="https://github-readme-stats.vercel.app/api?username=Bayrakdev&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Ruqq&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
 
 
